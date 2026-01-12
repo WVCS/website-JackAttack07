@@ -1,4 +1,4 @@
-body {
+
 @charset "utf-8";
 ul {
   list-style-type: none;
@@ -29,8 +29,4 @@ ul li a:hover:not(.active) {
 
 ul li a.active {
   background-color: #2798F5;
-}
-</style>
-</head>
-<body>
 }

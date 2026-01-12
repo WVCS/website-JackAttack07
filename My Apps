@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+	<link href="style.ccs.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<title>myapps.html</title>
+</head>
+
+<body>
+		<ul>
+  <li><a  href="index.hdml.html">Home</a></li>
+  <li><a  href="other apps.html">My Apps</a></li>
+</ul>
+<br>
+	<br>
+	<center>
+		<h2>My Apps</h2>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/ZxGM3U2oETFr4dK9TQEFk1jAb73111wq3NTG0bQIvbs/embed?nosource"></iframe>
+		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/memVWndXsY41wBjKB7BLvNN2lf6CgmMK8h0G2vJoeAR/embed?nosource"></iframe>
+	</center>
+</body>
+</html>
